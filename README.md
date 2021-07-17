@@ -1,6 +1,6 @@
-#Hi, I’m Rishi
+# Hi, I’m Rishi
 
-##I'm a full stack web developer.
+## I'm a full stack web developer.
 
 I have mostly worked with MERN stack, although i try to keep adding something to my skillset all the time, I keep the window open for all tech and tools.
 
