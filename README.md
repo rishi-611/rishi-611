@@ -16,7 +16,7 @@ My skillset:
   
   => I know some other stuff like Sass, Semantic UI, Adobe Illustrator, C++.
 
-Want to collaborate? I'm ready to get my hands dirty (in development ofcourse).
+Want to collaborate? I'm up for it
 
 Contact me on [Linkedin](https://www.linkedin.com/in/rishi-dubey-b4a773202/)
            or [Instagram](https://www.instagram.com/rishi_611/) 
